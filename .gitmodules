@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:betagouv/mon-devis-sans-oublis-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:betagouv/mon-devis-sans-oublis-backend.git
